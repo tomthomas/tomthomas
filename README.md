@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tom
 - 👀 I’m interested in Data Analytics - specifically sports analytics at the moment. I also enjoy learning about Machine Learning, and Product Management.
 - 🌱 I’m currently learning how to use various analytics tools.
-- 💞️ I’m looking to collaborate on Open-source projects, or non-profit ventures.
+- 💞️ I’m looking to collaborate on Open-source projects, or non-profit ventures to build low-cost effective solutions.
 - 📫 thomsonthomas.ie at gmail.com
 
 <!---
